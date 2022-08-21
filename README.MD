@@ -1,6 +1,6 @@
 ## Widget de Feedbacks
 
-<img src='https://uploaddeimagens.com.br/imagens/9kTUmNk' />
+<img src='https://i.postimg.cc/xjsv1yhP/Captura-de-Tela-2022-08-21-a-s-14-02-33.png' />
 
 Uma aplicação simples mas muito util em varias situações, podendo ser usadas como feedback de um site ou aplicação, fazendo poucas edições podendo ser usada para abertura de chamados, como uma integração com aplicações de tickets
 
